@@ -31,7 +31,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Credits
 
-This project was created by [Your Name] and inspired by [source of inspiration].
+This project was created by Ahamed Ali.
 
 ## License
 
@@ -39,5 +39,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or questions, feel free to contact me at [your-email@example.com].
+For any inquiries or questions, feel free to contact me at ahamedaliz650@gmail.com.
 
